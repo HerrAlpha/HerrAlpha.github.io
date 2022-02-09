@@ -69,7 +69,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="/PO Mar Web/Home.php">Home</a>
+          <a class="nav-link" aria-current="page" href="/PO Mar Web/index.html">Home</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link nav-item dropdown-toggle active" href="armada/armada.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Armada</a>
@@ -207,7 +207,7 @@
        <div class="col-md align-self-center p-3">
          <ul>
            <li>
-            <a href="/PO Mar Web/Home.php" class="url">Home</a>
+            <a href="/PO Mar Web/index.html" class="url">Home</a>
            </li>
            <li>
             <a href="armada/armada.php" class="url">Armada</a>
